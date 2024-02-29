@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RpgApi", "RpgApi.csproj", "{B137AFA3-EDED-48C8-A73A-D9720C461E22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B137AFA3-EDED-48C8-A73A-D9720C461E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B137AFA3-EDED-48C8-A73A-D9720C461E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B137AFA3-EDED-48C8-A73A-D9720C461E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B137AFA3-EDED-48C8-A73A-D9720C461E22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7776B53-AEEF-4B54-89CA-18F87216ED25}
+	EndGlobalSection
+EndGlobal
